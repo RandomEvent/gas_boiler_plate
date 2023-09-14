@@ -1,0 +1,11 @@
+.parcel-cache
+/dist
+/node_modules
+.clasp.json
+.env
+*secret*.js
+.DS_Store
+*.bundle
+gitbundle.sh
+/appsscript/index.html
+deploy.sh
